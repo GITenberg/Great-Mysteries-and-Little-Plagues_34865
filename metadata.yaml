@@ -1,0 +1,30 @@
+_repo: Great-Mysteries-and-Little-Plagues_34865
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34865-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Neal, John
+    aliases:
+    - O'Cataract, Jehu
+    - Somebody, M. D. C.
+    birthdate: 1793
+    deathdate: 1876
+    gutenberg_agent_id: '37294'
+    url: http://www.gutenberg.org/2009/agents/37294
+description: ''
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34865'
+  lccn: '12028069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Children -- Anecdotes, facetiae, satire, etc.'
+title: Great Mysteries and Little Plagues
+url: http://www.gutenberg.org/ebooks/34865
